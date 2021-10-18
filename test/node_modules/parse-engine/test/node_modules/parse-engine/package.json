@@ -1,0 +1,15 @@
+{
+  "name": "parse-engine",
+  "version": "1.0.0",
+  "description": "A variable parsing engine for discord embeds or text.",
+  "main": "./index.js",
+  "types": "./types/type.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayvshock",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/node": "^16.11.1"
+  }
+}
